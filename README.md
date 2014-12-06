@@ -1,6 +1,12 @@
 MixtureModels.jl
 ================
 
+# NOTICE
+
+**This package is unmaintained. Its reliability is not guaranteed.**
+
+# Introduction
+
 Gaussian mixture models in Julia:
 
 	using MixtureModels
